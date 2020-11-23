@@ -41,6 +41,9 @@ Her er et eksempel på hvordan oppgaven kan løses, du står selvsagt fritt til 
 
 I denne prosjektmappen, kan du kjøre:
 
+### `npm install`
+Installerer alle nødvendige pakker og avhengigheter
+
 ### `npm start`
 
 Kjører appen i utviklingsmodus.\
