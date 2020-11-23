@@ -1,0 +1,14 @@
+.appRoot {
+  display: flex;
+  justify-content: center;
+}
+
+.infoContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  width: 400px;
+  text-align: center;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+}
