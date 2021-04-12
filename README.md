@@ -1,6 +1,6 @@
-# Sommerstudent case
+# Student case
 
-Velkommen til Gjensidige sitt sommer-case ☀
+Velkommen til Gjensidige sitt student-case ☀
 
 ## Oppgaven
 
