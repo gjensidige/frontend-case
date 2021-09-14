@@ -4,6 +4,8 @@
 }
 
 .Card {
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
   width: 400px;
   height: 600px;
   display: flex;
@@ -13,7 +15,7 @@
   border-radius: 25px;
   border-color: rgb(206, 206, 14);
   background-color: blue;
-  box-shadow: 0 4px 6px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 6px 0 rgba(0,0,0,0.7);
 }
 
 .Card .CardContent {
@@ -22,17 +24,11 @@
   margin: 0;
 }
 
-.appRoot .Moves {
-  display: flex;
-  justify-content: left;
-}
 .infoContainer {
   display: flex;
-  width: 600px;
-  height: 400px;
-  text-align: center;
-  font-weight: 100;
-  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  width: 350px;
+  height: 200px;
   background: radial-gradient(rgb(7, 247, 107), rgb(6, 107, 80));
   border-style: solid;
   border-width: 5px;
