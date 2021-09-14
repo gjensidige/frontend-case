@@ -2,7 +2,11 @@ import React, { useEffect, useState } from 'react';
 import { fetchPokemon } from './utils';
 import { Pokemon } from './types';
 
-import InfoContainer from './components/InfoContainer';
+//import InfoContainer from './components/InfoContainer';
+//import PokemonName from './components/PokemonName';
+//import Abilities from './components/Abilities';
+import Card from './components/Card';
+
 
 import './app.css';
 
@@ -15,7 +19,7 @@ const App = () => {
 
   return (
     <div className='appRoot'>
-      <InfoContainer pokemon={pokemon} />
+      <Card pokemon={pokemon}/>
     </div>
   );
 };
