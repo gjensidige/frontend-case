@@ -1,6 +1,6 @@
-# Student case
+# Frontend-case
 
-Velkommen til Gjensidige sitt student-case ☀
+Velkommen til Gjensidige sitt Pokemon-case! ☀
 
 ## Oppgaven
 
@@ -10,8 +10,7 @@ I denne oppgaven er målet å lage et Pokemon kort ved hjelp av API’et [pokeAp
 
 I Gjensidige bruker vi React som det primære javascript-rammeverket. Men om du heller ønsker å bruke et annet rammeverk, er vi selvsagt åpne for det.
 
-Pokemonkortet bør være stylet ved hjelp av css eller lignende.
-Vi ser for oss at du har med bilde og navn, men du står fritt til å legge til flere ønskelige elementer om pokemonen.
+Pokemonkortet bør være stylet ved hjelp av css eller lignende. Vi ser for oss at du har med bilde og navn, men du står fritt til å legge til flere ønskelige elementer om pokemonen.
 
 Alt dette skal hentes fra API’ene til [pokeApi](https://pokeapi.co/).
 
@@ -33,7 +32,7 @@ Her kan du også eventuelt utvide med flere felter om du ønsker det. Du kan sel
 
 ### Eksempel
 
-Her er et eksempel på hvordan oppgaven kan løses, du står selvsagt fritt til å gjøre det på andre måter.
+Her er et _eksempel_ på hvordan oppgaven kan løses, du står selvsagt fritt til å gjøre det på andre måter.
 
 ![Eksempelbilde mulig løsning](https://github.com/gjensidige/sommerstudent-case/blob/main/bulbasaurCardExample.png)
 
