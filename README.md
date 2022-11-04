@@ -6,22 +6,24 @@ Velkommen til Gjensidige sitt Pokemon-case! ☀
 
 ### Beskrivelse
 
-I denne oppgaven er målet å lage et Pokemon kort ved hjelp av API’et [pokeApi](https://pokeapi.co/).
+I denne oppgaven er målet å lage et Pokemon-kort ved hjelp av API’et [pokeApi](https://pokeapi.co/).
 
 I Gjensidige bruker vi React som det primære javascript-rammeverket. Men om du heller ønsker å bruke et annet rammeverk, er vi selvsagt åpne for det.
 
-Pokemonkortet bør være stylet ved hjelp av css eller lignende. Vi ser for oss at du har med bilde og navn, men du står fritt til å legge til flere ønskelige elementer om pokemonen.
-
-Alt dette skal hentes fra API’ene til [pokeApi](https://pokeapi.co/).
-
 Oppsummering av ønsket teknologi:
-
-- React eller annet Javascript rammeverk
+- React eller annet Javascript-rammeverk
 - CSS eller lignende style-språk
 - Bruk av fetch fra REST API’ene til [pokeApi](https://pokeapi.co/)
 - Bruk av funksjonelle komponenter
 
 Vi har tjuvstartet for deg, og du vil finne alt du trenger for å komme godt i gang i dette repoet.
+
+Ønsket funksjonalitet:
+- Hente navn, bilde og annen informasjon om en pokemon fra API-et. Du velger selv hvilke og hvor mange felter du ønsker å bruke.
+- Presentere et pokemon-kort i valgfritt design. Du finner et eksempel under, men bruk gjerne fantasien.
+- Frivillig: Om du har tid kan du gjerne legge på ekstra funksjonalitet, som feks mulighet til å hente andre/flere pokemons, listevisning, søkefunksjon, randomizer, etc. Eller en helt annen idé du selv har.
+
+Fokusere på god kode, ryddig struktur og en gjennomtenkt løsning. Du måles ikke på antall features :) Justere selv omfanget av oppgaven ut fra din egen tilgjenglige tid.
 
 ### Hva finnes i dette repoet?
 
@@ -32,7 +34,7 @@ Her kan du også eventuelt utvide med flere felter om du ønsker det. Du kan sel
 
 ### Eksempel
 
-Her er et _eksempel_ på hvordan oppgaven kan løses, du står selvsagt fritt til å gjøre det på andre måter.
+Her er et _eksempel_ på hvordan oppgaven kan løses. Du står selvsagt fritt til å gjøre det på andre måter. Bruk fantasien =)
 
 ![Eksempelbilde mulig løsning](https://github.com/gjensidige/sommerstudent-case/blob/main/bulbasaurCardExample.png)
 
