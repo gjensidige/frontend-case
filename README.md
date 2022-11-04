@@ -36,7 +36,7 @@ Her kan du også eventuelt utvide med flere felter om du ønsker det. Du kan sel
 
 Her er et _eksempel_ på hvordan oppgaven kan løses. Du står selvsagt fritt til å gjøre det på andre måter. Bruk fantasien =)
 
-![Eksempelbilde mulig løsning](https://github.com/gjensidige/sommerstudent-case/blob/main/bulbasaurCardExample.png)
+<img src="https://github.com/gjensidige/sommerstudent-case/blob/main/bulbasaurCardExample.png" width="300">
 
 ## Tilgjenglige Scripts
 
