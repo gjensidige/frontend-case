@@ -12,7 +12,7 @@ I Gjensidige bruker vi React som det primære javascript-rammeverket. Men om du 
 
 Oppsummering av ønsket teknologi:
 - React eller annet Javascript-rammeverk
-- CSS eller lignende style-språk
+- Stying i egen CSS eller ved hjelp av et valgfritt CSS-rammeverk
 - Bruk av fetch fra REST API’ene til [pokeApi](https://pokeapi.co/)
 - Bruk av funksjonelle komponenter
 
